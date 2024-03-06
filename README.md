@@ -5,7 +5,7 @@ Tecnologias Utilizadas:
  - Back-end: Spring Boot, Java 11, Lombok
  - Front-end: Angular 12
 
-# Consumo do Serviço - /food/calculaValoresPedido - POST
+# Consumo do Serviço - api/v1/food/processarPedido - POST
 <br>
 
 Exemplo de Body para a requisição (JSON):
