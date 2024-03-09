@@ -90,7 +90,7 @@ Utilizados nos testes: JUnit, Mockito e AssertJ.
 
 
 # Video demonstrativo da requisição através do Front-end
-![softexpert-gif](https://github.com/feilonn/desafio-SE/assets/60004704/513dfca7-1fc5-4c22-ac9a-5995bbe30d3f)
+![softexpert-gif2](https://github.com/feilonn/desafio-softexpert/assets/60004704/b1ca3d87-61a8-4e1e-94bc-5d57bd7b2130)
 
 # Banco Digital Utilizado
 - O banco digital utilizado nesta aplicação foi o Efí: https://dev.efipay.com.br/. O Serviço retorna um link que exibe uma pagina web contendo tanto o QrCode do PIX, como também a opção de compartilhar o código via WhatsApp.
